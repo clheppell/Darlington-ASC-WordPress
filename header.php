@@ -34,23 +34,23 @@ Designed by Chris Heppell, www.chrisheppell.uk
     <link rel="stylesheet" href="<?=$theme_dir?>/css/init1-prefixed.css" type="text/css">
     <link rel="stylesheet" href="<?=$theme_dir?>/font-awesome/css/font-awesome.min.css" type="text/css">
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
-    <link rel="icon" sizes="180x180" href="<?=$theme_dir?>/img/icons/apple-touch-icon-180x180.png">
+    <link rel="icon" sizes="180x180" href="<?=$theme_dir?>/img/icons/apple-icon-180x180.png">
     <!-- For iPhone 6 Plus with @3× display: -->
-    <link rel="apple-touch-icon" sizes="180x180" href="<?=$theme_dir?>/img/icons/apple-touch-icon-180x180.png">
+    <link rel="apple-icon" sizes="180x180" href="<?=$theme_dir?>/img/icons/apple-icon-180x180.png">
     <!-- For iPad with @2× display running iOS ≥ 7: -->
-    <link rel="apple-touch-icon" sizes="152x152" href="<?=$theme_dir?>/img/icons/apple-touch-icon-152x152.png">
+    <link rel="apple-icon" sizes="152x152" href="<?=$theme_dir?>/img/icons/apple-icon-152x152.png">
     <!-- For iPad with @2× display running iOS ≤ 6: -->
-    <link rel="apple-touch-icon" sizes="144x144" href="<?=$theme_dir?>/img/icons/apple-touch-icon-144x144.png">
+    <link rel="apple-icon" sizes="144x144" href="<?=$theme_dir?>/img/icons/apple-icon-144x144.png">
     <!-- For iPhone with @2× display running iOS ≥ 7: -->
-    <link rel="apple-touch-icon" sizes="120x120" href="<?=$theme_dir?>/img/icons/apple-touch-icon-120x120.png">
+    <link rel="apple-icon" sizes="120x120" href="<?=$theme_dir?>/img/icons/apple-icon-120x120.png">
     <!-- For iPhone with @2× display running iOS ≤ 6: -->
-    <link rel="apple-touch-icon" sizes="114x114" href="<?=$theme_dir?>/img/icons/apple-touch-icon-114x114.png">
+    <link rel="apple-icon" sizes="114x114" href="<?=$theme_dir?>/img/icons/apple-icon-114x114.png">
     <!-- For the iPad mini and the first- and second-generation iPad (@1× display) on iOS ≥ 7: -->
-    <link rel="apple-touch-icon" sizes="76x76" href="<?=$theme_dir?>/img/icons/apple-touch-icon-76x76.png">
+    <link rel="apple-icon" sizes="76x76" href="<?=$theme_dir?>/img/icons/apple-icon-76x76.png">
     <!-- For the iPad mini and the first- and second-generation iPad (@1× display) on iOS ≤ 6: -->
-    <link rel="apple-touch-icon" sizes="57x57" href="<?=$theme_dir?>/img/icons/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="<?=$theme_dir?>/img/icons/apple-touch-icon-72x72.png">    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
-    <link rel="apple-touch-icon" href="<?=$theme_dir?>/img/icons/apple-touch-icon.png"><!-- 57×57px -->
+    <link rel="apple-icon" sizes="57x57" href="<?=$theme_dir?>/img/icons/apple-icon-57x57.png">
+    <link rel="apple-icon" sizes="72x72" href="<?=$theme_dir?>/img/icons/apple-icon-72x72.png">    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+    <link rel="apple-icon" href="<?=$theme_dir?>/img/icons/apple-icon.png"><!-- 57×57px -->
     <!--
     <link rel="mask-icon" href="<?=$theme_dir?>/img/icons/apple/chesterIcon.svg" color="#bd0000">
     <meta name="application-name" content="<?php bloginfo('name'); ?>"/>
@@ -130,7 +130,7 @@ Designed by Chris Heppell, www.chrisheppell.uk
                 <a href="<?=esc_url(home_url('/'))?>" title="Website Homepage" class="text-decoration-none">
                   <div class="row align-items-center">
                     <div class="col-auto">
-                      <img class="logo" src="<?=get_template_directory_uri()?>/img/logo.jpg">
+                      <img class="logo" src="<?=get_template_directory_uri()?>/img/dare.png">
                     </div>
                     <div class="col">
                       <h1><?php bloginfo('name'); ?></h1>

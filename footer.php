@@ -14,21 +14,22 @@ $current_url = urlencode(home_url(add_query_arg(array(), $wp->request)));
               <div class="col-lg-6">
                 <address>
                   <!--<strong><?php bloginfo('name'); ?></strong><br>-->
-                  <strong>Richmond Swimming Pool</strong><br>
-                  Station Road<br>
-                  Richmond<br>
-                  DL10 4LD
+                  <strong>Dolphin Centre</strong><br>
+                  Horsemarket<br>
+                  Darlington<br>
+                  DL1 5RP
                 </address>
               </div>
+              <!--
               <div class="col-lg-6">
                 <address>
-                  <!--<strong><?php bloginfo('name'); ?></strong><br>-->
                   <strong>Catterick Leisure Centre</strong><br>
                   Gough Road<br>
                   Catterick Garrison<br>
                   DL9 3EL
                 </address>
               </div>
+              -->
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
