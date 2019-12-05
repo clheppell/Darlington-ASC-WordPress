@@ -31,7 +31,7 @@ Designed by Chris Heppell, www.chrisheppell.uk
     <meta name="format-detection" content="telephone=no">
     <!--<script>var shiftWindow = function() { scrollBy(0, -100) }; if (location.hash) shiftWindow(); window.addEventListener("hashchange", shiftWindow);</script>-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700|Merriweather:400,600" type="text/css">
-    <link rel="stylesheet" href="<?=$theme_dir?>/css/init1-prefixed.css" type="text/css">
+    <link rel="stylesheet" href="<?=$theme_dir?>/css/init2-prefixed.css" type="text/css">
     <link rel="stylesheet" href="<?=$theme_dir?>/font-awesome/css/font-awesome.min.css" type="text/css">
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
     <link rel="icon" sizes="180x180" href="<?=$theme_dir?>/img/icons/apple-icon-180x180.png">
