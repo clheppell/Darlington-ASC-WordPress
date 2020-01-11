@@ -20,22 +20,12 @@ $current_url = urlencode(home_url(add_query_arg(array(), $wp->request)));
                   DL1 5RP
                 </address>
               </div>
-              <!--
-              <div class="col-lg-6">
-                <address>
-                  <strong>Catterick Leisure Centre</strong><br>
-                  Gough Road<br>
-                  Catterick Garrison<br>
-                  DL9 3EL
-                </address>
-              </div>
-              -->
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <p class="lead"><strong>Contact us</strong></p>
-            <p class="mb-0"><a href="mailto:tbc@rdasc.org.uk" target="new">Email us</a></p>
-            <p><a href="https://membership.rdasc.org.uk/reportanissue?url=<?=$current_url?>">Report an issue with this page</a></p>
+            <p class="mb-0"><a href="mailto:enquiries@darlingtonasc.co.uk" target="new">Email us</a></p>
+            <p><a href="https://membership.myswimmingclub.uk/dare/reportanissue?url=<?=$current_url?>">Report an issue with this page</a></p>
           </div>
           <div class="col-md-6 col-lg-3">
             <p class="lead"><strong>Other swimming sites</strong></p>
